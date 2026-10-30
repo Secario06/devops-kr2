@@ -1,3 +1,4 @@
+# KR2: Manukyan
 import os
 import socket
 
